@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.spinner {
+  display: block;
+  position: fixed;
+  z-index: 1031; 
+  top: 50%;
+  right: 50%; 
+}
+.headerone{
+  height: 40px;
+  background-color: currentcolor;
+}
