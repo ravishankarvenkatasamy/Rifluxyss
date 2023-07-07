@@ -71,7 +71,9 @@ export default function Home(props) {
     return (
         <>
 
+<div className='headerone'>
 
+</div>
             <Container>
                 <Row className='mb-3 mt-3'>
                     <Col xs={12} md={12}>
